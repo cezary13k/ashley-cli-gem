@@ -1,4 +1,4 @@
-# ashley-cli-gem
+# CyberCezaryC13 
 
 This is my first coding project at Flatiron School. 
 It scrapes a pokemon database and allows you to interact with it within the console on your computer
